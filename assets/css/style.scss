@@ -2,3 +2,42 @@
 ---
 
 @import "{{ site.theme }}";
+
+.side-btn {
+    display: inline-block;
+    margin-bottom: 1rem;
+    width: 100%;
+    color: $section-headings-color;
+    background-color: $code-bg-color;
+    border-color: $border-color;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: background-color 0.2s;
+
+    &:hover {
+        text-decoration: none;
+        background-color: rgba(194, 196, 199, 0.35);
+    }
+
+    @include large {
+        padding: 0.75rem 1rem;
+    }
+
+    @include medium {
+        padding: 0.6rem 0.9rem;
+        font-size: 0.9rem;
+    }
+
+    @include small {
+        display: block;
+        width: 100%;
+        padding: 0.75rem;
+        font-size: 0.9rem;
+
+        + .side-btn {
+              margin-top: 1rem;
+              margin-left: 0;
+        }
+    }
+}
