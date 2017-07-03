@@ -28,6 +28,12 @@
     margin: 0;
 }
 
+.main-content {
+    @include large {
+        max-width: 72rem;
+    }
+}
+
 .side-btn {
     display: inline-block;
     margin-bottom: 1rem;
