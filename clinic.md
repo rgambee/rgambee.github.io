@@ -30,7 +30,7 @@ Later, we performed destructive testing on our late-stage prototypes to approxim
 
 <figure>
     <img class="centered" src="/media/testing.jpg" alt="Destructive testing aftermath" style="width: 80%;">
-    <figcaption>This prototype was subjected to destructive testing meant to approximate atmospheric reentry and ground impact. The housing successfully protected the data on the miscroSD card (lower left).</figcaption>
+    <figcaption>This prototype was subjected to destructive testing meant to approximate atmospheric reentry and ground impact. The housing successfully protected the data on the miscroSD card (lower right).</figcaption>
 </figure>
 
 ## Sandia National Laboratory Clinic Project (2013-2014)
