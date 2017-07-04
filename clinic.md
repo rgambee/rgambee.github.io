@@ -1,6 +1,6 @@
 # Clinic Projects
 
-At Harvey Mudd College, the Clinic Program serves as the capstone project for engineering majors. Teams of typically five students work for an academic year to solve a problem for an outside company. The program gives students experience with real-world issues and can sometimes lead to job offers from the project sponsors.
+At Harvey Mudd College, the [Clinic Program](https://www.hmc.edu/clinic/) serves as the capstone project for engineering majors. Teams of typically five students work for an academic year to solve a problem for an outside company. The program gives students experience with real-world issues and can sometimes lead to job offers from the project sponsors.
 
 ## SpaceX Clinic Project (2014-2015)
 
@@ -52,4 +52,4 @@ I was responsible for using analytical and computational models to determine the
 </figure>
 
 ### Results
-It turned out that both the computational and analytical models were extremely sensitive to the measured slurry dielectric constant. This meant that even small measurement errors were amplified to absurdly large uncertainties in the dielectric constant of the BTO nanoparticles. Despite varying the particle concentration, solvent type, measurement method and more, we were unable to overcome this fundamental issue. Our findings therefore cast doubt on the feasibility of this technique and call into question the results of other groups who have used it. I had the opportunity to present my results as an invited speaker at the Spring, 2014 meeting of the Materials Research Society.
+It turned out that both the computational and analytical models were extremely sensitive to the measured slurry dielectric constant. This meant that even small measurement errors were amplified to absurdly large uncertainties in the dielectric constant of the BTO nanoparticles. Despite varying the particle concentration, solvent type, measurement method and more, we were unable to overcome this fundamental issue. Our findings therefore cast doubt on the feasibility of this technique and call into question the results of other groups who have used it. I had the opportunity to present my results as an invited speaker at the Spring, 2014 meeting of the [Materials Research Society](http://www.mrs.org/).
