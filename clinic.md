@@ -24,7 +24,7 @@ I focused on designing the recorder's housing, from selecting materials to simul
 </figure>
 
 ### Results
-Throughout the project, we used computer simulations to validate our designs, running vibration and thermal models to evaluate performance during nominal flight conditions. Our circuit board's dimensions and mounting scheme, plus the placement of its components, were selected to maximize its natural frequency and avoid resonance. We also added a heatsink to the housing to lower the microprocessor's operating temperature as it continuously processed the large amounts of data it received.
+Throughout the project, we used computer simulations to validate our designs, including vibration and thermal models to evaluate performance during nominal flight conditions. Our circuit board's dimensions and mounting scheme, plus the placement of its components, were selected to maximize its natural frequency and avoid resonance. We also added a heatsink to the housing to lower the microprocessor's operating temperature as it continuously processed the large amounts of data it received.
 
 Later, we performed destructive testing on our late-stage prototypes to approximate mission failure scenarios. One unit was blowtorched to simulate atmospheric reentry and then hit with a sledgehammer to simulate impact with the ground or ocean. Amazingly, the microSD card inside was totally unscathed, and all of its data remained intact!
 
