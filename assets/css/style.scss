@@ -3,29 +3,10 @@
 
 @import "{{ site.theme }}";
 
-:root {
-    --sidebar-width: 6em;
-}
-
-.center {
-    width: 85%;
-    width: calc(100% - var(--sidebar-width));
-    padding: 0% 5% 0% 0%;
-    float: left;
-}
-
 .right-sidebar {
-    width: var(--sidebar-width);
     float: right;
-}
-
-.clear-floated {
-    clear: both;
-    height: 1px;
-    font-size: 1px;
-    line-height: 1px;
-    padding: 0;
-    margin: 0;
+    width: 6em;
+    margin: 0em 0em 0em 1em;
 }
 
 .main-content {
