@@ -3,10 +3,22 @@
 
 @import "{{ site.theme }}";
 
+:root {
+    --sidebar-width: 8em;
+    --sidebar-margin: 2rem;
+}
+
 .right-sidebar {
     float: right;
-    width: 6em;
-    margin: 0em 0em 0em 1em;
+    width: var(--sidebar-width);
+    padding: 0rem 0rem 0rem var(--sidebar-margin);
+}
+
+.centered {
+    @include large {
+        width: calc(100% - var(--sidebar-width));
+        float: left;
+    }
 }
 
 .main-content {
