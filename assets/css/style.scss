@@ -54,15 +54,8 @@
     }
 
     @include small {
-        display: block;
-        width: 100%;
         padding: 0.75rem;
         font-size: 0.9rem;
-
-        + .side-btn {
-              margin-top: 1rem;
-              margin-left: 0;
-        }
     }
 }
 
