@@ -9,7 +9,7 @@ I graduated from [Harvey Mudd College](https://www.hmc.edu/) in 2015 with a B.S.
 Based in Somerville, MA, [Formlabs](https://formlabs.com/) designs professional-grade 3D printers. Unlike most 3D printers which extrude filament through a heated nozzle (fused deposition modeling or FDM), Formlabs printers use a laser to solidify either liquid resin, an approach known as stereolithography (SLA), or nylon particles, an approach known as selective laser sintering (SLS), into complex objects. These laser-based techniques can provide better surface finish, finer detail and superior mechanical properties compared to FDM. We were the first to bring stereolithography to the desktop with the Form 1, and its successor, the Form 2, has become the best-selling stereolithography printer of all time.
 
 <figure>
-    <img class="centered" src="/media/Form1+_and_Form2.jpg" alt="Form 1+ and Form 2 3D printers">
+    <img class="centered" src="/media/Form1+_and_Form2.jpg" alt="Form 1+ and Form 2 3D printers" style="width: 70%;">
     <figcaption>The Form 1+ (left) and the Form 2 (right). Image courtesy of Formlabs.</figcaption>
 </figure>
 
