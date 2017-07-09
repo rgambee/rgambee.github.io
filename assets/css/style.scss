@@ -17,7 +17,6 @@
 .centered {
     @include large {
         width: calc(100% - var(--sidebar-width));
-        float: left;
     }
 }
 
