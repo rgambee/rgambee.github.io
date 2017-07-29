@@ -24,9 +24,9 @@ I focused on designing the recorder's housing, from selecting materials to simul
 </figure>
 
 ### Results
-Throughout the project, we used computer simulations to validate our designs, including vibration and thermal models to evaluate performance during nominal flight conditions. Our circuit board's dimensions and mounting scheme, plus the placement of its components, were selected to maximize its natural frequency and avoid resonance. We also added a heatsink to the housing which, based on our models, lowered the microcontroller's operating temperature from 120 to 90 °C (248 to 194 °F).
+Throughout the project, we used computer simulations to validate our designs, including vibration and thermal models to evaluate performance during nominal flight conditions. Our circuit board's dimensions and mounting scheme, plus the placement of its components, were selected to maximize its natural frequency and avoid resonance. We also added a heatsink to the housing which, based on our models, lowered the microcontroller's operating temperature from 120 to 90&nbsp;°C (248 to 194&nbsp;°F).
 
-Later, we performed destructive testing on our late-stage prototypes to approximate mission failure scenarios. One unit was blowtorched to simulate atmospheric reentry and then hit with a sledgehammer to simulate impact with the ground or ocean. We estimated that the sledgehammer exerted a force of 200 kN (45,000 lbf) when it collided with the prototype. Amazingly, the microSD card inside was totally unscathed, and all of its data remained intact!
+Later, we performed destructive testing on our late-stage prototypes to approximate mission failure scenarios. One unit was blowtorched to simulate atmospheric reentry and then hit with a sledgehammer to simulate impact with the ground or ocean. We estimated that the sledgehammer exerted a force of 200&nbsp;kN (45,000&nbsp;lbf) when it collided with the prototype. Amazingly, the microSD card inside was totally unscathed, and all of its data remained intact!
 
 <figure>
     <img class="centered" src="/media/testing.jpg" alt="Destructive testing aftermath" style="width: 80%;">
