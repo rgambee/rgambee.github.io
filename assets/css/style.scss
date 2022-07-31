@@ -58,6 +58,33 @@
     }
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    padding-top: 1rem;
+    text-align: left;
+    z-index: 1;
+}
+
+.dropdown-content ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.dropdown-item {
+    display: block;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 img.centered {
     display: block;
     margin: 0 auto;

@@ -18,8 +18,24 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
       <a href="/index.html" class="btn">Home</a>
-      <a href="/projects/clinic.html" class="btn">Clinic Projects</a>
+      <div class="btn dropdown">
+        Projects &blacktriangledown;
+        <div class="dropdown-content">
+          <ul>
+            <li>
+              <a href="/projects/clinic.html" class="dropdown-item">Clinic</a>
+            </li>
+            <li>
+              <a href="/projects/hackathon.html" class="dropdown-item">Hackathons</a>
+            </li>
+            <li>
+              <a href="/projects/aoc.html" class="dropdown-item">Advent&nbsp;of&nbsp;Code</a>
+            </li>
+          </ul>
+        </div>
+      </div>
       <a href="/education/undergrad.html" class="btn">Education</a>
       <a href="/background.html" class="btn">Background</a>
     </section>
