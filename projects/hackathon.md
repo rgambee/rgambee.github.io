@@ -1,9 +1,9 @@
 # Hackathon Projects
 
-Formlabs holds an annual hackathon for its employees where individuals or small
-groups work on a project of their choosing for two to three days. I've
-participated in every one and had a blast each time. Here are a couple of the
-most successful projects.
+Formlabs, [my employer](/job.html), holds an annual hackathon for its
+employees where individuals or small groups work on a project of their choosing
+for two to three days. I've participated in every one and had a blast each
+time. Here are a couple of the most successful projects.
 
 Unfortunately, I can't share any pictures or code since they contain
 proprietary information.

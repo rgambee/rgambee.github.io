@@ -59,3 +59,6 @@ impacted had a risk of their prints failing due to lack of resin. To avoid
 returning the printers for repair, which would have inconvenienced our
 customers and cost us money, I developed a firmware solution that saved both
 time for our users and money for Formlabs.
+
+Every year, Formlabs runs a hackathon for all employees. You can read about a
+few of the [fun projects](/projects/hackathon.html) I've worked on.

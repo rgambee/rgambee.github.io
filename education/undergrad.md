@@ -8,6 +8,9 @@ While there, I was inducted into [Tau Beta Pi](http://tbp.org/home.cfm), the
 national engineering honor society, and earned a mark of High Distinction on my
 diploma.
 
+During my junior and senior years, I worked on a pair of exciting [capstone
+projects](/projects/clinic.html).
+
 ## Research
 
 As an undergraduate, I had the opportunity to participate in academic research

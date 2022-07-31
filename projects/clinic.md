@@ -1,10 +1,11 @@
 # Clinic Projects
 
-At Harvey Mudd College, the [Clinic Program](https://www.hmc.edu/clinic/)
-serves as the capstone project for engineering majors. Teams of typically five
-students work for an academic year to solve a problem for an outside company.
-The program gives students experience with real-world issues and can sometimes
-lead to job offers from the project sponsors.
+At my [alma mater](/education/undergrad.html) Harvey Mudd College, the [Clinic
+Program](https://www.hmc.edu/clinic/) serves as the capstone project for
+engineering majors. Teams of typically five students work for an academic year
+to solve a problem for an outside company.  The program gives students
+experience with real-world issues and can sometimes lead to job offers from the
+project sponsors.
 
 ## SpaceX Clinic Project (2014-2015)
 
