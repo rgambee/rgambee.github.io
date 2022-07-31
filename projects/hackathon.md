@@ -20,13 +20,13 @@ with surface tension, among others.
 
 <figure>
     <img
-        class="centered"
-        src="/media/slaComparison.svg"
-        alt="Diagram showing basics of stereolithography 3D printing"
-        style="width: 80%;"
+      class="centered"
+      src="/media/slaComparison.svg"
+      alt="Diagram showing basics of stereolithography 3D printing"
+      style="width: 80%;"
     >
     <figcaption>
-        Comparison of bottom-up and top-down stereolithograpy
+      Comparison of bottom-up and top-down stereolithograpy
     </figcaption>
 </figure>
 
