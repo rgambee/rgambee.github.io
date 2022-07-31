@@ -11,10 +11,10 @@ Claremont, CA, where I received a B.S. in Engineering.
 
 In my free time, I enjoy reading, gaming and honing my programming skills.
 
-Want to learn more about me? Check out my [Background](/background.html).
-Interested in the projects I've worked on? Have a look at my
-[clinic](/projects/clinic.html) and [hackathon](/projects/hackathon.html)
-experience.
+Want to learn more about me? Check out my [professional
+background](/job.html). Interested in the projects I've worked on? Have a
+look at my [clinic](/projects/clinic.html) and
+[hackathon](/projects/hackathon.html) experience.
 
 ## Contact
 
