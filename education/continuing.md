@@ -41,7 +41,7 @@ smaller networks.
 
 ## fast.ai Practical Deep Learning for Coders
 
-The creators of [fast.ai](https://www.fast.ai/), which supplements the popular
+The creators of [fast.ai](https://www.fast.ai/), which supplements the popular
 PyTorch library, offer their own [introductory machine learning
 course](https://course.fast.ai/).  While I was in the middle of the course,
 they released an updated 2022 version.  My comments here are about the earlier
