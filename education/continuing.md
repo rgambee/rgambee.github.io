@@ -16,8 +16,8 @@ courses.
 
 The first course I took was the [Machine Learning Crash
 Course](https://developers.google.com/machine-learning/crash-course/) from
-Google.  Before I started, I considered myself a complete novice when it came
-to ML.  However, I discovered that I was already familiar with many of the
+Google. Before I started, I considered myself a complete novice when it came
+to ML. However, I discovered that I was already familiar with many of the
 concepts, such as gradient descent and overfitting. ML may use different
 jargon, but it shares a lot with traditional disciplines.
 
@@ -35,7 +35,7 @@ computational performance when there are a large number of features (inputs).
 L<sub>2</sub> regularization, which aims to minimize the square of the weights,
 will tend to keep weights from getting too large. But it typically doesn't
 drive them to exactly 0 because its effect on the gradient diminishes as the
-weights get smaller.  Dropout regularization, which removes random nodes from
+weights get smaller. Dropout regularization, which removes random nodes from
 the network at each iteration, is similar to averaging over an ensemble of
 smaller networks.
 
@@ -43,8 +43,8 @@ smaller networks.
 
 The creators of [fast.ai](https://www.fast.ai/), which supplements the popular
 PyTorch library, offer their own [introductory machine learning
-course](https://course.fast.ai/).  While I was in the middle of the course,
-they released an updated 2022 version.  My comments here are about the earlier
+course](https://course.fast.ai/). While I was in the middle of the course,
+they released an updated 2022 version. My comments here are about the earlier
 2020 version, so I apologize if any of them are out of date.
 
 For me, one key takeaway from the course was the importance of picking a good

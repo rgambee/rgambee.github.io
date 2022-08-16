@@ -37,7 +37,7 @@ existing applications in the firmware that are responsible for running prints.
 
 Thirdly, I wanted it to be as simple as possible to fire up the tool and use
 it, even for a brand new employee without much software knowledge. I didn't
-want them  to have to run any scripts or install any packages.
+want them to have to run any scripts or install any packages.
 
 Lastly, I deliberately avoided any way of controlling the printer from the
 dashboard. Being able to remotely start and stop prints, or even move motors,

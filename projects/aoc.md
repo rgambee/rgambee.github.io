@@ -42,7 +42,7 @@ which was feasible to do naively. Part 2 required finding which point in space
 was within the largest number of cubes and was infeasible to solve naively.
 After many attempts, I used [octrees](https://en.wikipedia.org/wiki/Octree) to
 efficiently find a small volume containing the desired point and then searched
-that exhaustively.  I had heard of octrees before, but this was my first time
+that exhaustively. I had heard of octrees before, but this was my first time
 using them.
 
 ## 2019: C++ 
