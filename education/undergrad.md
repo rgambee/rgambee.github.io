@@ -25,7 +25,7 @@ low-cost, energy-efficient method for separating gas mixtures. However, there
 has traditionally been a tradeoff between a membrane's permeability, which
 dictates the flow rate across it, and its selectivity, which determines how
 well it is able to allow the desired gas(es) through while blocking the
-unwanted gas(es). But [recent
+unwanted gas(es). But [past
 research](http://pubs.acs.org/doi/full/10.1021/cm020672j) has discovered that
 incorporating nanoparticles into certain polymers increases their permeability
 without sacrificing selectivity. My group sought to explain the underlying
