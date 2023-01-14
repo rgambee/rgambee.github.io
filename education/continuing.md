@@ -87,14 +87,14 @@ our values, now.
 
 The third ML course I took was NYU's Deep Learning with Professor Yann LeCun,
 which was much more substantial than the previous two courses I took. I
-followed the material from the [2021 version of the course]
-(https://atcold.github.io/NYU-DLSP21/), which was the most recent one available
-at the time. The lectures were split between LeCunn and assistant professor
-Alfredo Canziani, whom I have to thank for making this material freely
-available. I enjoyed Canziani's teaching style, visualizations and attention to
-detail in the slides. The 2021 version of the course placed a big emphasis on
-energy-based models, which weren't a concept I had come across before, at least
-not formally.
+followed the material from the [2021 version of the course
+](https://atcold.github.io/NYU-DLSP21/), which was the most recent one
+available at the time. The lectures were split between LeCunn and assistant
+professor Alfredo Canziani, whom I have to thank for making this material
+freely available. I enjoyed Canziani's teaching style, visualizations and
+attention to detail in the slides. The 2021 version of the course placed a big
+emphasis on energy-based models, which weren't a concept I had come across
+before, at least not formally.
 
 My overall biggest criticism of the course is that the lectures had little
 relevance to the later assignments. While the first two courses I took held my
