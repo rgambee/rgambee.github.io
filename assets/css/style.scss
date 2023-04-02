@@ -66,19 +66,27 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    padding-top: 1rem;
+    left: -1rem;
+    padding: 1rem;
     text-align: left;
     z-index: 1;
 }
 
 .dropdown-content ul {
-    padding: 0px;
+    list-style: none;
+    padding: 0.5rem 1rem;
     margin: 0px;
+    color: $section-headings-color;
+    background-color: $code-bg-color;
+    border-color: $border-color;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
 }
 
 .dropdown-item {
     display: block;
-    color: rgba(255, 255, 255, 0.7);
+    color: $section-headings-color;
 }
 
 .dropdown:hover .dropdown-content {
