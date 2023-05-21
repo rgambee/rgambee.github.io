@@ -14,15 +14,15 @@ stereolithography to the desktop with the Form 1, and its successors, the Form
 printers on the market.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/Form3_and_Form3L.webp"
-      alt="Form 3 and Form 3L 3D printers"
-      style="width: 100%;"
-    />
-    <figcaption>
-      The Form 3 (left) and the Form 3L (right). Image courtesy of Formlabs.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/Form3_and_Form3L.webp"
+    alt="Form 3 and Form 3L 3D printers"
+    style="width: 100%;"
+  />
+  <figcaption>
+    The Form 3 (left) and the Form 3L (right). Image courtesy of Formlabs.
+  </figcaption>
 </figure>
 
 I work on the Systems Integration team, which operates at the intersection of

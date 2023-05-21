@@ -136,15 +136,15 @@ much lower force on the part as it prints, though it suffers from challenges
 with surface tension, among others.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/slaComparison.svg"
-      alt="Diagram showing basics of stereolithography 3D printing"
-      style="width: 80%;"
-    />
-    <figcaption>
-      Comparison of bottom-up and top-down stereolithograpy
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/slaComparison.svg"
+    alt="Diagram showing basics of stereolithography 3D printing"
+    style="width: 80%;"
+  />
+  <figcaption>
+    Comparison of bottom-up and top-down stereolithograpy
+  </figcaption>
 </figure>
 
 I helped with calibrating the printer and generating the instructions to make

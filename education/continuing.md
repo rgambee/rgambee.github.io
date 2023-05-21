@@ -128,15 +128,15 @@ training rate. But the RMSprop and Adam optimizers were better still. Results
 in the following section were obtained with Adam.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/rnnOptimizerComparison.png"
-        alt="Training performance for various optimizers"
-        style="width: 90%;"
-    />
-    <figcaption>
-        Loss and accuracy vs. sample while training with different optimizers
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/rnnOptimizerComparison.png"
+    alt="Training performance for various optimizers"
+    style="width: 90%;"
+  />
+  <figcaption>
+    Loss and accuracy vs. sample while training with different optimizers
+  </figcaption>
 </figure>
 
 #### Batch Size
@@ -154,16 +154,16 @@ This can be explained by the fact that the optimizer took fewer steps, meaning
 it spent less time backpropagating gradients and updating parameters.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/rnnBatchSizeComparison.png"
-        alt="Training performance for various batch sizes"
-        style="width: 90%;"
-    />
-    <figcaption>
-        Loss and accuracy vs. CPU time while training with different batch
-        sizes.<br> Each run used 2<sup>14</sup> = 16,384 samples.
-      </figcaption>
+  <img
+    class="centered"
+    src="/media/rnnBatchSizeComparison.png"
+    alt="Training performance for various batch sizes"
+    style="width: 90%;"
+  />
+  <figcaption>
+    Loss and accuracy vs. CPU time while training with different batch
+    sizes.<br /> Each run used 2<sup>14</sup> = 16,384 samples.
+    </figcaption>
 </figure>
 
 ### Convolutional Neural Network ([Notebook](https://github.com/rgambee/pytorch-Deep-Learning/blob/master/homework/hw3_practice.ipynb))
@@ -185,17 +185,17 @@ placeholder token instead. To train this behavior, the characters of each input
 string were separated by this placeholder: `abc` became `a_b_c_`.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/ocrOverview.gif"
-        alt="Idealized illustration of how the model converted an image to text"
-        style="width: 50%;"
-    />
-    <figcaption>
-        The model used optical character recognition to convert images to text.
-        When the window didn't line up with a single character, the model was
-        trained to output a placeholder token.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/ocrOverview.gif"
+    alt="Idealized illustration of how the model converted an image to text"
+    style="width: 50%;"
+  />
+  <figcaption>
+    The model used optical character recognition to convert images to text.
+    When the window didn't line up with a single character, the model was
+    trained to output a placeholder token.
+  </figcaption>
 </figure>
 
 Single character recognition is a simple classification problem: if the image is
@@ -227,16 +227,16 @@ Typically, the higher the logit value, the higher the probability. But in this
 case, the logits were interpreted as energies, where lower is better.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/ocrHeatmap.png"
-        alt="Heat map showing model energies for a short string"
-        style="width: 75%;"
-    />
-    <figcaption>
-        Heat map depicting how closely each window location corresponds to
-        each character in the string
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/ocrHeatmap.png"
+    alt="Heat map showing model energies for a short string"
+    style="width: 75%;"
+  />
+  <figcaption>
+    Heat map depicting how closely each window location corresponds to
+    each character in the string
+  </figcaption>
 </figure>
 
 The top left corner indicates the model's measure of whether the first window
@@ -246,17 +246,17 @@ on across the top row. The _second_ row contains the predictions for
 the _second_ character at each window location.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/ocrHeatmapAnimation.gif"
-        alt="Animation showing how heat map entries are calculated"
-        style="width: 75%;"
-    />
-    <figcaption>
-        Each column in the heat map corresponds to energies for different
-        characters at a single window location. Each row corresponds to
-        energies for a single character at different window locations.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/ocrHeatmapAnimation.gif"
+    alt="Animation showing how heat map entries are calculated"
+    style="width: 75%;"
+  />
+  <figcaption>
+    Each column in the heat map corresponds to energies for different
+    characters at a single window location. Each row corresponds to
+    energies for a single character at different window locations.
+  </figcaption>
 </figure>
 
  One can use this heat map to determine how the model has divided up the image
@@ -272,17 +272,17 @@ the _second_ character at each window location.
  valid paths is small for heat maps of this size.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/ocrHeatmapPath.png"
-        alt="The path of least energy through the heat map"
-        style="width: 75%;"
-    />
-    <figcaption>
-        The lowest-energy path through the heat map is shown in white. It
-        represents the model's estimate of how to map window locations to
-        characters in the string.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/ocrHeatmapPath.png"
+    alt="The path of least energy through the heat map"
+    style="width: 75%;"
+  />
+  <figcaption>
+    The lowest-energy path through the heat map is shown in white. It
+    represents the model's estimate of how to map window locations to
+  characters in the string.
+  </figcaption>
 </figure>
 
 Adding up the energies along the optimal path produced the total loss.
@@ -298,19 +298,19 @@ trained to to predict a placeholder `_` between actual letters, legitimate
 repeats were preserved.
 
 <figure>
-    <img
-        class="centered"
-        src="/media/ocrDeduplication.png"
-        alt="Illustration of how the model recognizes double letters"
-        style="width: 90%;"
-    />
-    <figcaption>
-        The model may output the same character for multiple window positions.
-        These needed to be deduplicated when constructing the final string. The
-        model output a placeholder <code>_</code> when the window doesn't
-        cleanly line up with a character, which prevents legitimate duplicates
-        from merging.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/ocrDeduplication.png"
+    alt="Illustration of how the model recognizes double letters"
+    style="width: 90%;"
+  />
+  <figcaption>
+    The model may output the same character for multiple window positions.
+    These needed to be deduplicated when constructing the final string. The
+    model output a placeholder <code>_</code> when the window doesn't
+    cleanly line up with a character, which prevents legitimate duplicates
+    from merging.
+  </figcaption>
 </figure>
 
 The model achieved an accuracy of over 90% after training on two character

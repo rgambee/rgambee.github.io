@@ -23,15 +23,15 @@ aviation industry. The device needed to
 3. Be easily recoverable even in the event of a catastrophic failure.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/housing.jpg"
-      alt="The housing of one of our final prototypes"
-    />
-    <figcaption>
-      The housing of one of our final prototypes, painted bright orange for
-      visibility.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/housing.jpg"
+    alt="The housing of one of our final prototypes"
+  />
+  <figcaption>
+    The housing of one of our final prototypes, painted bright orange for
+    visibility.
+  </figcaption>
 </figure>
 
 ### My Role
@@ -47,16 +47,16 @@ the aviation industry offered some guidance, though we had to make compromises
 due to our limited testing resources and number of prototypes.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/thermalSim.png"
-      alt="Simulation of steady-state temperature distribution"
-    />
-    <figcaption>
-      Steady-state thermal simulation showing temperature in degrees Celsius.
-      Modeling led us to include a heatsink to lower the MCU's operating
-      temperature.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/thermalSim.png"
+    alt="Simulation of steady-state temperature distribution"
+  />
+  <figcaption>
+    Steady-state thermal simulation showing temperature in degrees Celsius.
+    Modeling led us to include a heatsink to lower the MCU's operating
+    temperature.
+  </figcaption>
 </figure>
 
 ### Results
@@ -79,17 +79,17 @@ the microSD card inside was totally unscathed, and all of its data remained
 intact!
 
 <figure>
-    <img
-      class="centered"
-      src="/media/testing.jpg"
-      alt="Destructive testing aftermath"
-      style="width: 80%;"
-    />
-    <figcaption>
-      This prototype was subjected to destructive testing meant to approximate
-      atmospheric reentry and ground impact. The housing successfully protected
-      the data on the miscroSD card (lower right).
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/testing.jpg"
+    alt="Destructive testing aftermath"
+    style="width: 80%;"
+  />
+  <figcaption>
+    This prototype was subjected to destructive testing meant to approximate
+    atmospheric reentry and ground impact. The housing successfully protected
+    the data on the miscroSD card (lower right).
+  </figcaption>
 </figure>
 
 ## Sandia National Laboratory Clinic Project (2013-2014)
@@ -111,15 +111,15 @@ exploring their atomic structure to better understand their puzzling
 properties.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/BTOmodel.png"
-      alt="COMSOL model of BTO nanoparticle slurry"
-    />
-    <figcaption>
-      COMSOL model showing BTO particles suspended in a solvent within a coin
-      cell battery casing.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/BTOmodel.png"
+    alt="COMSOL model of BTO nanoparticle slurry"
+  />
+  <figcaption>
+    COMSOL model showing BTO particles suspended in a solvent within a coin
+    cell battery casing.
+  </figcaption>
 </figure>
 
 ### My Role
@@ -138,17 +138,17 @@ Therefore, in order to achieve the desired concentration, the size of the
 particles needed to be greatly increased compared to their actual size.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/BTOplot.png"
-      alt="Comparison of model predictions to experimental measurement"
-      style="width: 100%"
-    />
-    <figcaption>
-      A plot comparing the predictions of the numerical (black) and analytical
-      (blue, green and red) models to experimental measurement (solid pink with
-      dotted pink representing the 2% uncertainty).
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/BTOplot.png"
+    alt="Comparison of model predictions to experimental measurement"
+    style="width: 100%"
+  />
+  <figcaption>
+    A plot comparing the predictions of the numerical (black) and analytical
+    (blue, green and red) models to experimental measurement (solid pink with
+    dotted pink representing the 2% uncertainty).
+  </figcaption>
 </figure>
 
 ### Results

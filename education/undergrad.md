@@ -33,18 +33,18 @@ cause for this phenomenon and characterize it across a wider selection of
 nanoparticle and polymer types.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/permeationChamber.png"
-      alt="Permeation testing setup"
-      style="width: 90%;"
-    />
-    <figcaption>
-      Permeation testing apparatus. Gas flows in from the top right, through
-      the sample chamber on the left, and out through the bottom right. Two
-      pressure transducers measure the pressure on either side of the sample
-      chamber.
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/permeationChamber.png"
+    alt="Permeation testing setup"
+    style="width: 90%;"
+  />
+  <figcaption>
+    Permeation testing apparatus. Gas flows in from the top right, through
+    the sample chamber on the left, and out through the bottom right. Two
+    pressure transducers measure the pressure on either side of the sample
+    chamber.
+  </figcaption>
 </figure>
 
 ### My Role
@@ -60,16 +60,16 @@ therefore created and ran many different simulations to build up a distribution
 that we could compare to experimental results.
 
 <figure>
-    <img
-      class="centered"
-      src="/media/polymerModel.png"
-      alt="Screenshot of polymer model"
-      style="width: 70%;"
-    />
-    <figcaption>
-      Molecular model showing polymer chains (black and gray) and nitrogen
-      molecules (blue, enlarged for visibility).
-    </figcaption>
+  <img
+    class="centered"
+    src="/media/polymerModel.png"
+    alt="Screenshot of polymer model"
+    style="width: 70%;"
+  />
+  <figcaption>
+    Molecular model showing polymer chains (black and gray) and nitrogen
+    molecules (blue, enlarged for visibility).
+  </figcaption>
 </figure>
 
 ### Results
