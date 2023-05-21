@@ -133,7 +133,7 @@ in the following section were obtained with Adam.
         src="/media/rnnOptimizerComparison.png"
         alt="Training performance for various optimizers"
         style="width: 90%;"
-    >
+    />
     <figcaption>
         Loss and accuracy vs. sample while training with different optimizers
     </figcaption>
@@ -159,7 +159,7 @@ it spent less time backpropagating gradients and updating parameters.
         src="/media/rnnBatchSizeComparison.png"
         alt="Training performance for various batch sizes"
         style="width: 90%;"
-    >
+    />
     <figcaption>
         Loss and accuracy vs. CPU time while training with different batch
         sizes.<br> Each run used 2<sup>14</sup> = 16,384 samples.
@@ -190,7 +190,7 @@ string were separated by this placeholder: `abc` became `a_b_c_`.
         src="/media/ocrOverview.gif"
         alt="Idealized illustration of how the model converted an image to text"
         style="width: 50%;"
-    >
+    />
     <figcaption>
         The model used optical character recognition to convert images to text.
         When the window didn't line up with a single character, the model was
@@ -232,7 +232,7 @@ case, the logits were interpreted as energies, where lower is better.
         src="/media/ocrHeatmap.png"
         alt="Heat map showing model energies for a short string"
         style="width: 75%;"
-    >
+    />
     <figcaption>
         Heat map depicting how closely each window location corresponds to
         each character in the string
@@ -251,7 +251,7 @@ the _second_ character at each window location.
         src="/media/ocrHeatmapAnimation.gif"
         alt="Animation showing how heat map entries are calculated"
         style="width: 75%;"
-    >
+    />
     <figcaption>
         Each column in the heat map corresponds to energies for different
         characters at a single window location. Each row corresponds to
@@ -277,7 +277,7 @@ the _second_ character at each window location.
         src="/media/ocrHeatmapPath.png"
         alt="The path of least energy through the heat map"
         style="width: 75%;"
-    >
+    />
     <figcaption>
         The lowest-energy path through the heat map is shown in white. It
         represents the model's estimate of how to map window locations to
@@ -303,7 +303,7 @@ repeats were preserved.
         src="/media/ocrDeduplication.png"
         alt="Illustration of how the model recognizes double letters"
         style="width: 90%;"
-    >
+    />
     <figcaption>
         The model may output the same character for multiple window positions.
         These needed to be deduplicated when constructing the final string. The

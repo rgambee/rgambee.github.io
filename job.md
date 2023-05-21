@@ -19,7 +19,7 @@ printers on the market.
       src="/media/Form3_and_Form3L.webp"
       alt="Form 3 and Form 3L 3D printers"
       style="width: 100%;"
-    >
+    />
     <figcaption>
       The Form 3 (left) and the Form 3L (right). Image courtesy of Formlabs.
     </figcaption>

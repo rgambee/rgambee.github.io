@@ -27,7 +27,7 @@ aviation industry. The device needed to
       class="centered"
       src="/media/housing.jpg"
       alt="The housing of one of our final prototypes"
-    >
+    />
     <figcaption>
       The housing of one of our final prototypes, painted bright orange for
       visibility.
@@ -51,7 +51,7 @@ due to our limited testing resources and number of prototypes.
       class="centered"
       src="/media/thermalSim.png"
       alt="Simulation of steady-state temperature distribution"
-    >
+    />
     <figcaption>
       Steady-state thermal simulation showing temperature in degrees Celsius.
       Modeling led us to include a heatsink to lower the MCU's operating
@@ -84,7 +84,7 @@ intact!
       src="/media/testing.jpg"
       alt="Destructive testing aftermath"
       style="width: 80%;"
-    >
+    />
     <figcaption>
       This prototype was subjected to destructive testing meant to approximate
       atmospheric reentry and ground impact. The housing successfully protected
@@ -115,7 +115,7 @@ properties.
       class="centered"
       src="/media/BTOmodel.png"
       alt="COMSOL model of BTO nanoparticle slurry"
-    >
+    />
     <figcaption>
       COMSOL model showing BTO particles suspended in a solvent within a coin
       cell battery casing.
@@ -143,7 +143,7 @@ particles needed to be greatly increased compared to their actual size.
       src="/media/BTOplot.png"
       alt="Comparison of model predictions to experimental measurement"
       style="width: 100%"
-    >
+    />
     <figcaption>
       A plot comparing the predictions of the numerical (black) and analytical
       (blue, green and red) models to experimental measurement (solid pink with

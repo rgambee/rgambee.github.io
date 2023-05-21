@@ -141,7 +141,7 @@ with surface tension, among others.
       src="/media/slaComparison.svg"
       alt="Diagram showing basics of stereolithography 3D printing"
       style="width: 80%;"
-    >
+    />
     <figcaption>
       Comparison of bottom-up and top-down stereolithograpy
     </figcaption>
