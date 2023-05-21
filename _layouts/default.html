@@ -19,43 +19,47 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-      <a href="/index.html" class="btn">Home</a>
-      <div class="btn dropdown">
-        Projects &blacktriangledown;
-        <div class="dropdown-content">
-          <ul>
-            <li>
-              <a href="https://github.com/rgambee/chronicle" class="dropdown-item">Chronicle</a>
-            </li>
-            <li>
-              <a href="https://github.com/rgambee/self-correction-reproduction" class="dropdown-item">AI Research</a>
-            </li>
-            <li>
-              <a href="/projects/clinic.html" class="dropdown-item">Clinic</a>
-            </li>
-            <li>
-              <a href="/projects/hackathon.html" class="dropdown-item">Hackathons</a>
-            </li>
-            <li>
-              <a href="/projects/aoc.html" class="dropdown-item">Advent&nbsp;of&nbsp;Code</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="btn dropdown">
-        Education &blacktriangledown;
-        <div class="dropdown-content">
-          <ul>
-            <li>
-              <a href="/education/undergrad.html" class="dropdown-item">Undergraduate</a>
-            </li>
-            <li>
-              <a href="/education/continuing.html" class="dropdown-item">Continuing</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <a href="/job.html" class="btn">Job</a>
+      <nav>
+        <ul>
+          <li>
+            <a href="/" class="btn">Home</a>
+          </li>
+          <li>
+            <a href="#" class="btn">Projects &blacktriangledown;</a>
+            <ul class="dropdown-content">
+              <li>
+                <a href="https://github.com/rgambee/chronicle">Chronicle</a>
+              </li>
+              <li>
+                <a href="https://github.com/rgambee/self-correction-reproduction">AI Research</a>
+              </li>
+              <li>
+                <a href="/projects/clinic.html">Clinic</a>
+              </li>
+              <li>
+                <a href="/projects/hackathon.html">Hackathons</a>
+              </li>
+              <li>
+                <a href="/projects/aoc.html">Advent&nbsp;of&nbsp;Code</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="#" class="btn">Education &blacktriangledown;</a>
+            <ul class="dropdown-content">
+              <li>
+                <a href="/education/undergrad.html">Undergraduate</a>
+              </li>
+              <li>
+                <a href="/education/continuing.html">Continuing</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="/job.html" class="btn">Job</a>
+          </li>
+        </ul>
+      </nav>
     </section>
 
     <section class="main-content">
