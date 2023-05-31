@@ -90,7 +90,7 @@ Here's an overview of some of the projects I've worked on over the years.
     <p>
       Formlabs, my employer, holds an annual hackathon for its employees. I've
       participated in every one and had a blast each time. Here are a couple of
-      the most successful projects.
+      my most successful projects.
     </p>
   </div>
   <a
@@ -114,7 +114,7 @@ Here's an overview of some of the projects I've worked on over the years.
     <p>
       Advent of Code is a programming challenge held every year in December.
       I've participated in it several times, using it as an opportunity to
-      teach myself a new programming language.
+      teach myself new programming languages.
     </p>
   </div>
   <pre class="side-by-side-content">
