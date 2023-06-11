@@ -1,15 +1,14 @@
 # Welcome
 
-Hi, there! I'm Robert, a software engineer with a diverse set of interests,
-including chemical, materials and electrical engineering. I love working on
-interdisciplinary projects and am always eager to tackle a fresh challenge,
-while learning something new in the process.
+Hi, there! I'm Robert, a software engineer with several years of experience in embedded
+and web development, as well as data analysis and visualization. Outside of software, I
+like to dabble in materials, electrical and mechanical engineering. I love working on
+interdisciplinary projects and am always eager to tackle a fresh challenge, while
+learning something new in the process.
 
 Since 2015, I've been working as an engineer at Formlabs, a 3D printing company
-located in Somerville, MA. Before that, I attended Harvey Mudd College in
-Claremont, CA, where I received a B.S. in Engineering.
-
-In my free time, I enjoy reading, gaming and honing my programming skills.
+located in Somerville, MA. Before that, I attended Harvey Mudd College in Claremont, CA,
+where I earned a B.S. in Engineering.
 
 Want to learn more about me? Check out my personal and academic
 [projects](/projects), undergraduate and continuing [education](/education/),
