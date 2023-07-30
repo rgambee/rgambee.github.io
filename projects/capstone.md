@@ -1,4 +1,4 @@
-# Clinic Projects
+# Undergraduate Capstone Projects
 
 At my [alma mater](/education/undergrad.html) Harvey Mudd College, the [Clinic
 Program](https://www.hmc.edu/clinic/) serves as the capstone project for
@@ -7,7 +7,7 @@ to solve a problem for an outside company. The program gives students
 experience with real-world issues and can sometimes lead to job offers from the
 project sponsors.
 
-## SpaceX Clinic Project (2014-2015)
+## SpaceX (2014-2015) {#spacex}
 
 ### Motivation
 
@@ -92,7 +92,7 @@ intact!
   </figcaption>
 </figure>
 
-## Sandia National Laboratory Clinic Project (2013-2014)
+## Sandia National Laboratory (2013-2014) {#sandia}
 
 ### Motivation
 

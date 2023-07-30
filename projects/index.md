@@ -58,8 +58,8 @@ Here's an overview of some of the projects I've worked on over the years.
 <div class="side-by-side-container">
   <div class="side-by-side-content">
     <h2>
-      <a href="./clinic.html">
-        Clinic
+      <a href="./capstone.html">
+        Undergraduate Capstone
       </a>
     </h2>
     <p>
@@ -71,7 +71,7 @@ Here's an overview of some of the projects I've worked on over the years.
   </div>
   <a
     class="side-by-side-content"
-    href="./clinic.html"
+    href="./capstone.html"
   >
     <img
       src="/media/housing.jpg"

@@ -9,7 +9,7 @@ national engineering honor society, and earned a mark of High Distinction on my
 diploma.
 
 During my junior and senior years, I worked on a pair of exciting [capstone
-projects](/projects/clinic.html).
+projects](/projects/capstone.html).
 
 ## Research
 
