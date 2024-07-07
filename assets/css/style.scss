@@ -47,6 +47,25 @@ nav .btn {
 
 nav ul li:hover .dropdown-content {
     display: block;
+    z-index: 1;
+}
+
+.header-links {
+    margin: 1rem 0 0;
+}
+
+.header-icon-a {
+    color: $header-heading-color;
+    opacity: 0.7;
+    margin: 0 0.5rem;
+}
+
+.header-icon-a:hover {
+    opacity: 1;
+}
+.header-icon {
+    width: 1.5rem;
+    height: 1.5rem;
 }
 
 .right-sidebar {
