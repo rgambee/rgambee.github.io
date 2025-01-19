@@ -58,6 +58,30 @@ Here's an overview of some of the projects I've worked on over the years.
 <div class="side-by-side-container">
   <div class="side-by-side-content">
     <h2>
+      <a href="./scraper.html">
+        AI-Powered Web Scraper
+      </a>
+    </h2>
+    <p>
+      I build an AI-powered web scraper for a non-profit who focuses on AI
+      safety. It automatically collects information about upcoming events,
+      letting them keep their community up to date while saving them time.
+    </p>
+  </div>
+  <a
+    class="side-by-side-content"
+    href="./scraper.html"
+  >
+    <img
+      src="/media/robotScraper.jpg"
+      alt="A stylized image of a robot reading a map"
+    />
+  </a>
+</div>
+
+<div class="side-by-side-container">
+  <div class="side-by-side-content">
+    <h2>
       <a href="./capstone.html">
         Undergraduate Capstone
       </a>
