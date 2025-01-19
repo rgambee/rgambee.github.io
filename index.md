@@ -22,31 +22,6 @@ more!
 <div class="side-by-side-container">
   <div class="side-by-side-content">
     <h2>
-      <a href="https://github.com/rgambee/chronicle">
-        Chronicle
-      </a>
-    </h2>
-    <p>
-      I wrote a web app to help me track how I spend my time. It uses the
-      Django framework for the back-end and Bootstrap for styling the
-      front-end. It was my largest web development project to date, and I
-      learned a ton from it.
-    </p>
-  </div>
-  <a
-    class="side-by-side-content"
-    href="https://github.com/rgambee/chronicle"
-  >
-    <img
-      src="/media/chronicleCharts.png"
-      alt="A screenshot of the various charts Chronicle shows to visualize your data"
-    />
-  </a>
-</div>
-
-<div class="side-by-side-container">
-  <div class="side-by-side-content">
-    <h2>
       <a href="https://github.com/rgambee/self-correction-reproduction">
         AI Alignment Research
       </a>
