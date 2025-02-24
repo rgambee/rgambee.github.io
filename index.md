@@ -6,9 +6,10 @@ like to dabble in materials, electrical and mechanical engineering. I love worki
 interdisciplinary projects and am always eager to tackle a fresh challenge, while
 learning something new in the process.
 
-Since 2015, I've been working as an engineer at Formlabs, a 3D printing company
-located in Somerville, MA. Before that, I attended Harvey Mudd College in Claremont, CA,
-where I earned a B.S. in Engineering.
+Since 2025, I've been working as an engineer at FutureSearch, an AI startup.
+Before that I worked at Formlabs, a 3D printing company located in Somerville,
+MA. I went to school at Harvey Mudd College in Claremont, CA, where I earned a
+B.S. in Engineering.
 
 Want to learn more about me? Check out my personal and academic
 [projects](/projects), undergraduate and continuing [education](/education/),

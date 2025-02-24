@@ -1,6 +1,12 @@
 # Professional Experience
 
-### Formlabs: Systems Integration Engineer (2015 to Present)
+## FutureSearch: AI Research Engineer (2025 to Present)
+
+[FutureSearch](https://futuresearch.ai/) is a startup leveraging AI to answer
+tough questions, including market research and forecasting the future. I joined
+as an AI Research Engineer in 2025.
+
+## Formlabs: Systems Integration Engineer (2015 to Present)
 
 Based in Somerville, Massachusetts, [Formlabs](https://formlabs.com/) designs
 professional-grade 3D printers. Unlike most 3D printers which extrude filament
