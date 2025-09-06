@@ -4,9 +4,10 @@
 
 [FutureSearch](https://futuresearch.ai/) is a startup leveraging AI to answer
 tough questions, including market research and forecasting the future. I joined
-as an AI Research Engineer in 2025.
+as an AI Research Engineer in 2025. [See here](https://evals.futuresearch.ai/)
+learn more about our research.
 
-## Formlabs: Systems Integration Engineer (2015 to Present)
+## Formlabs: Systems Integration Engineer (2015 to 2025)
 
 Based in Somerville, Massachusetts, [Formlabs](https://formlabs.com/) designs
 professional-grade 3D printers. Unlike most 3D printers which extrude filament

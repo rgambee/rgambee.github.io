@@ -1,15 +1,15 @@
 # Welcome
 
-Hi, there! I'm Robert, a software engineer with several years of experience in embedded
-and web development, as well as data analysis and visualization. Outside of software, I
-like to dabble in materials, electrical and mechanical engineering. I love working on
-interdisciplinary projects and am always eager to tackle a fresh challenge, while
-learning something new in the process.
+Hi, there! I'm Robert, a research engineer with several years of experience in
+artificial intelligence, embedded systems and web development, as well as data
+analysis and visualization. Outside of software, I like to dabble in materials,
+electrical and mechanical engineering. I love working on interdisciplinary
+projects and am always eager to tackle a fresh challenge, while learning
+something new in the process.
 
-Since 2025, I've been working as an engineer at FutureSearch, an AI startup.
-Before that I worked at Formlabs, a 3D printing company located in Somerville,
-MA. I went to school at Harvey Mudd College in Claremont, CA, where I earned a
-B.S. in Engineering.
+Since 2025, I've been working as an AI research engineer at FutureSearch, a
+startup using AI for research and forecasting. Before that I worked at
+Formlabs, the world's top seller of professional 3D printers.
 
 Want to learn more about me? Check out my personal and academic
 [projects](/projects), undergraduate and continuing [education](/education/),
@@ -56,7 +56,7 @@ more!
       </a>
     </h2>
     <p>
-      I build an AI-powered web scraper for a non-profit who focuses on AI
+      I built an AI-powered web scraper for a non-profit who focuses on AI
       safety. It automatically collects information about upcoming events,
       letting them keep their community up to date while saving them time.
     </p>
