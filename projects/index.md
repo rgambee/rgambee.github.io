@@ -48,7 +48,7 @@ Here's an overview of some of the projects I've worked on over the years.
     href="./scraper.html"
   >
     <img
-      src="/media/robotScraper.jpg"
+      src="/media/robotScraper.png"
       alt="A stylized image of a robot reading a map"
     />
   </a>
