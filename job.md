@@ -7,6 +7,13 @@ tough questions, including market research and forecasting the future. I joined
 as an AI Research Engineer in 2025. [See here](https://evals.futuresearch.ai/)
 learn more about our research.
 
+## MIT FutureTech: Part-time Software engineer (2026 to Present)
+
+I'm helping MIT's FutureTech lab with their
+[AI Risk Initiative](https://airisk.mit.edu/) to compile databases of AI risks,
+incidents, mitigations and more. I'm contributing by building and refining their
+data pipelines.
+
 ## Formlabs: Systems Integration Engineer (2015 to 2025)
 
 Based in Somerville, Massachusetts, [Formlabs](https://formlabs.com/) designs
