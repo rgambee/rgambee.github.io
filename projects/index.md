@@ -5,6 +5,31 @@ Here's an overview of some of the projects I've worked on over the years.
 <div class="side-by-side-container">
   <div class="side-by-side-content">
     <h2>
+      <a href="https://github.com/rgambee/llm-preferences">
+        AI Welfare Research
+      </a>
+    </h2>
+    <p>
+      I explored the preference stability of LLMs to by presenting them with a
+      series of pairwise comparisons tasks, building upon results published by
+      Anthropic's model welfare team.
+    </p>
+  </div>
+  <a
+    class="side-by-side-content"
+    href="https://github.com/rgambee/llm-preferences"
+  >
+    <img
+      src="/media/llmPreferencesPlot.svg"
+      style="object-position: top left;"
+      alt="Scatter plot showing the degree to which individual task ratings add together to when considering sequences of tasks."
+    />
+  </a>
+</div>
+
+<div class="side-by-side-container">
+  <div class="side-by-side-content">
+    <h2>
       <a href="https://github.com/rgambee/self-correction-reproduction">
         AI Alignment Research
       </a>

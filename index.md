@@ -23,27 +23,24 @@ more!
 <div class="side-by-side-container">
   <div class="side-by-side-content">
     <h2>
-      <a href="https://github.com/rgambee/self-correction-reproduction">
-        AI Alignment Research
+      <a href="https://github.com/rgambee/llm-preferences">
+        AI Welfare Research
       </a>
     </h2>
     <p>
-      To learn about the process of doing empirical AI alignment research, I
-      attempted to reproduce the paper
-      <a href="https://arxiv.org/pdf/2302.07459.pdf">
-        "The Capacity for Moral Self-Correction in Large Language Models"
-      </a>
-      by Ganguli et al. from 2023.
+      I explored the preference stability of LLMs to by presenting them with a
+      series of pairwise comparisons tasks, building upon results published by
+      Anthropic's model welfare team.
     </p>
   </div>
   <a
     class="side-by-side-content"
-    href="https://github.com/rgambee/self-correction-reproduction"
+    href="https://github.com/rgambee/llm-preferences"
   >
     <img
-      src="/media/aiResearchPlot.svg"
+      src="/media/llmPreferencesPlot.svg"
       style="object-position: top left;"
-      alt="A plot showing some of the results from my study compared to the original"
+      alt="Scatter plot showing the degree to which individual task ratings add together to when considering sequences of tasks."
     />
   </a>
 </div>
