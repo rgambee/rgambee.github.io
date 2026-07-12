@@ -82,6 +82,34 @@ Here's an overview of some of the projects I've worked on over the years.
 <div class="side-by-side-container">
   <div class="side-by-side-content">
     <h2>
+      <a href="https://rgambee.github.io/knight-grid">
+        Knight Grid
+      </a>
+    </h2>
+    <p>
+      This web app creates striking patterns by placing chess pieces according
+      to a set of simple rules. It's a lovely example of emergent behavior.
+    </p>
+    <p>
+      The idea was inspired by
+      <a href="https://www.youtube.com/watch?v=UiX4CFIiegM">this Numberphile video</a>
+      featuring Neil Sloane.
+    </p>
+  </div>
+  <a
+    class="side-by-side-content"
+    href="https://rgambee.github.io/knight-grid"
+  >
+    <img
+      src="/media/knightGrid.png"
+      alt="A screenshot of the various charts Chronicle shows to visualize your data"
+    />
+  </a>
+</div>
+
+<div class="side-by-side-container">
+  <div class="side-by-side-content">
+    <h2>
       <a href="https://github.com/rgambee/chronicle">
         Chronicle
       </a>
