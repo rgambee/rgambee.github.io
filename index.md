@@ -7,9 +7,10 @@ electrical and mechanical engineering. I love working on interdisciplinary
 projects and am always eager to tackle a fresh challenge, while learning
 something new in the process.
 
-Since 2025, I've been working as an AI research engineer at FutureSearch, a
-startup using AI for research and forecasting. Before that I worked at
-Formlabs, the world's top seller of professional 3D printers.
+Since 2026, I've been working as a software engineer at SecureBio, helping to
+prevent the next pandemic. Before that, I was an AI research engineer at
+FutureSearch, a startup building the world's best AI forecaster. Earlier, I
+worked at Formlabs, the world's top seller of professional 3D printers.
 
 Want to learn more about me? Check out my personal and academic
 [projects](/projects), undergraduate and continuing [education](/education/),
